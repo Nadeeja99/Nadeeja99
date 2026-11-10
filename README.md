@@ -23,7 +23,7 @@ I build full-stack applications and LLM-powered tools, from a project management
 
 | Project | What it does | Built with |
 | --- | --- | --- |
-| **[GrowthTracker](https://github.com/Nadeeja99/GrowthTracker)** · [live](https://growthtracker-q51x.onrender.com) · [case study](https://github.com/Nadeeja99/GrowthTracker/blob/main/docs/CASE_STUDY.md) | Weekly planner with an AI coach that reads your own goals, tasks and habits. Streamed replies, and every AI suggestion is schema-validated before it touches your data. 140+ tests in CI, Lighthouse accessibility 100. | Next.js · Express · Prisma · PostgreSQL · OpenAI · Playwright |
+| **[GrowthTracker](https://github.com/Nadeeja99/GrowthTracker)** · [live](https://growth-tracker-azure.vercel.app/) · [case study](https://github.com/Nadeeja99/GrowthTracker/blob/main/docs/CASE_STUDY.md) | Weekly planner with an AI coach that reads your own goals, tasks and habits. Streamed replies, and every AI suggestion is schema-validated before it touches your data. 140+ tests in CI, Lighthouse accessibility 100. | Next.js · Express · Prisma · PostgreSQL · OpenAI · Playwright |
 | **[ResumeTailorAI](https://github.com/Nadeeja99/ResumeTailorAI)** · [live](https://resumetailorai-pfjw.onrender.com) | Tailors a resume to a job with Google Gemini: match scoring, keyword gaps, a streamed rewrite, cover letters and interview prep, with a 3-model fallback chain. | React · Express · Gemini · Docker · Playwright |
 | **[LearnMate AI](https://github.com/Nadeeja99/LearnMateAI)** · [live](https://learnmate-frontend.onrender.com) | Turns your PDFs into a study partner: RAG-powered Q&A with source references, summaries, generated quizzes and real-time voice chat. | React · FastAPI · LangChain · FAISS · OpenAI · LangFuse |
 
